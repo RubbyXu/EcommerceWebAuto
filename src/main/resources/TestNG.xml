@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+  
+<suite verbose="1" name="EcommerceSuite">
+  <test name="Test SignIn" >
+    <classes>
+       <class name="com.ecommerce.webauto.testcases.TestSignIn" />
+    </classes>
+  </test>
+  
+  <test name="Test Search" >
+    <classes>
+       <class name="com.ecommerce.webauto.testcases.TestSearch" />
+    </classes>
+  </test>
+  
+  <test name="Test Sort By" >
+    <classes>
+       <class name="com.ecommerce.webauto.testcases.TestSortBy" />
+    </classes>
+  </test>
+  
+  <test name="Test Shopping Cart" >
+    <classes>
+       <class name="com.ecommerce.webauto.testcases.TestCart" />
+    </classes>
+  </test>
+</suite>
