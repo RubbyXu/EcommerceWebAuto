@@ -1,7 +1,7 @@
 Introduction
 
 	This is an automation test framework testing E-Commerce website. It automatically
-    tests login, searching, wish list, shopping cart and processing. It supports Firefox, 
+    tests login, searching, sorting, shopping cart and processing. It supports Firefox, 
 	Chrome and IE web browsers and test data can be customized.
 
 Used Technologies:
